@@ -14,23 +14,10 @@ function App() {
       <p>
         hello botlar
       </p>
-      <section className="manage-community">
-        <h2>Manage your entire community in a single system</h2>
-        <div className="features">
-          <div className="feature-box">
-            <h3>Membership Organisations</h3>
-            <p>Our membership management software provides full automation of membership renewals and payments</p>
-          </div>
-          <div className="feature-box">
-            <h3>National Associations</h3>
-            <p>Our membership management software provides full automation of membership renewals and payments</p>
-          </div>
-          <div className="feature-box">
-            <h3>Clubs And Groups</h3>
-            <p>Our membership management software provides full automation of membership renewals and payments</p>
-          </div>
-        </div>
-      </section>
+      <p>Lorem, ipsum dolor.</p>
+      <p>Lorem, ipsum dolor.</p>
+      <p>Lorem, ipsum dolor.</p>
+      <p>Lorem, ipsum dolor.</p>
     </>
   );
 }
