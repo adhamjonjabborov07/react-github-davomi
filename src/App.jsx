@@ -14,6 +14,10 @@ function App() {
       <p>
         hello botlar
       </p>
+      <p>Lorem, ipsum dolor.</p>
+      <p>Lorem, ipsum dolor.</p>
+      <p>Lorem, ipsum dolor.</p>
+      <p>Lorem, ipsum dolor.</p>
     </>
   );
 }
