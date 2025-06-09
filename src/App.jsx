@@ -34,7 +34,6 @@ function App() {
       <p>
         hello botlar
       </p>
-      <p>bbbbbb</p>
     </>
   )
 }
