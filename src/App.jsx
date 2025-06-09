@@ -31,6 +31,9 @@ function App() {
       <p>
         Lorem ipsum dolor sit.
       </p>
+      <p>
+        hello botlar
+      </p>
     </>
   )
 }
