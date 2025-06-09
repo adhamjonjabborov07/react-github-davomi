@@ -34,8 +34,6 @@ function App() {
       <p>
         hello botlar
       </p>
-      <h1>Salom</h1>
-      <mark>github</mark>
     </>
   )
 }
