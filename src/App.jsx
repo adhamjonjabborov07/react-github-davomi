@@ -11,6 +11,9 @@ function App() {
         voluptatibus harum sequi ea dolorum corrupti perspiciatis error magnam
         nobis itaque blanditiis?
       </p>
+      <p>
+        hello botlar
+      </p>
     </>
   );
 }
